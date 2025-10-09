@@ -3,11 +3,13 @@ Repositório de anotações e resumo de estudos de tecnologias em geral
 
 ## 🖥️ Programação
 
-### Typescript
+### Typescript & Node.js
 
 | Sumário                 | Conteúdo                                   |
 |-------------------------|--------------------------------------------|
 | Conceitos Essenciais    | [Link para visualização](https://github.com/AngeloResplandes/anotacoes/blob/main/conteudos/prog/typescript/conceitos-typescript.md)   |
+| Introdução ao Backend   | [Link para visualização](https://github.com/AngeloResplandes/anotacoes/blob/main/conteudos/prog/node/introducao-backend.md)   |
+| Introdução ao Node      | [Link para visualização](https://github.com/AngeloResplandes/anotacoes/blob/main/conteudos/prog/node/introducao-node.md)   |
 
 
 ### Golang
