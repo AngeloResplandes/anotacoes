@@ -3,6 +3,13 @@ Repositório de anotações e resumo de estudos de tecnologias em geral
 
 ## 🖥️ Programação
 
+### Typescript
+
+| Sumário                 | Conteúdo                                   |
+|-------------------------|--------------------------------------------|
+| Conceitos Essenciais    | [Link para visualização](https://github.com/AngeloResplandes/anotacoes/blob/main/conteudos/prog/typescript/conceitos-typescript.md)   |
+
+
 ### Golang
 
 | Sumário             | Conteúdo                                   |
